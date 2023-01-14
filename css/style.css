@@ -1,0 +1,25 @@
+#navbar a{
+    display: block;
+    text-decoration: none;
+}
+
+ul {
+    width: 100%;
+}
+
+li {
+    width: 25%;
+}
+#navbar li{
+    list-style: none;
+  
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  #navbar{
+    display: left;
+  }
