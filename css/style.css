@@ -9,6 +9,7 @@ ul {
 
 li {
     width: 25%;
+    color: aqua;
 }
 #navbar li{
     list-style: none;
