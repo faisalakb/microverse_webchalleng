@@ -10,6 +10,7 @@ ul {
 li {
     width: 25%;
     color: aqua;
+    background-color: bisque;
 }
 #navbar li{
     list-style: none;
